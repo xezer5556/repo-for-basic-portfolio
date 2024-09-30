@@ -1,1 +1,1 @@
-# repo-for-basic-portfolio
+# this project is about basic-portfolio
